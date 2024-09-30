@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://vikashofficial.netlify.app/](https://vikashsharma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vikashsharma.vercel.app/](https://vikashsharma.vercel.app/)
 
 - 💬 Ask me about **React**
 
